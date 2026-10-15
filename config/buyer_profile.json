@@ -1,0 +1,22 @@
+{
+  "min_revenue": 4000000,
+  "max_revenue": null,
+  "max_asking_price": null,
+  "sectors": {
+    "Packaging": ["packaging", "corrugated", "flexible", "label", "carton", "container"],
+    "Food": ["food", "beverage", "bakery", "snack", "co-packer", "copacker"],
+    "Aerospace": ["aerospace", "defense", "as9100", "aviation"],
+    "Electronics": ["electronics", "pcb", "ems", "electronic", "circuit", "cable assembl"],
+    "Oil & gas": ["oil", "gas", "petroleum", "oilfield"],
+    "Energy": ["energy", "nuclear", "solar", "power", "utility"],
+    "Medical equipment": ["medical", "device", "iso 13485", "surgical", "orthopedic"],
+    "Supplements": ["supplement", "nutraceutical", "vitamin", "nutrition"]
+  },
+  "required_keywords": ["manufactur", "machin", "fabricat", "production", "plant", "processing", "packag", "assembl", "co-pack"],
+  "outreach": {
+    "buyer_name": "",
+    "buyer_email": "",
+    "buyer_phone": "",
+    "pitch": "I'm an individual buyer looking to acquire a lower-middle-market manufacturer with $4M+ in revenue. I'm well capitalized and can move quickly, and I'm open to seller financing and keeping management in place."
+  }
+}
